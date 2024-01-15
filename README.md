@@ -31,6 +31,7 @@ And this image file: `0-sprite.png`
 
 Create `0-styles.css` and generate this layout:
 ![](./README-images/94aa60f76c412f40a87b.png)
+
 You are not allowed to change the image and the HTML - *sprite is cool!*
 
 ## 1. Move the (under)line
@@ -53,6 +54,7 @@ By using this HTML:
 ```
 Create `1-styles.css` and generate this layout where the underline is hidden by default and appeared slowly…:
 ![](./README-images/b791cfdbd11c0eefa5f7.gif)
+
 You are not allowed to change the HTML
 
 ## 2. Toggle
