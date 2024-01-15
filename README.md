@@ -30,6 +30,7 @@ By using this HTML:
 And this image file: `0-sprite.png`
 
 Create `0-styles.css` and generate this layout:
+
 ![](./README-images/94aa60f76c412f40a87b.png)
 
 You are not allowed to change the image and the HTML - *sprite is cool!*
@@ -53,6 +54,7 @@ By using this HTML:
 </html>
 ```
 Create `1-styles.css` and generate this layout where the underline is hidden by default and appeared slowly…:
+
 ![](./README-images/b791cfdbd11c0eefa5f7.gif)
 
 You are not allowed to change the HTML
@@ -83,9 +85,11 @@ By using this HTML:
 Create `2-styles.css` and generate this layout where the `<input>` is has this custom toggle layout:
 
 **Checked:**
+
 ![](./README-images/3848b025c8f25636bba5.png)
 
 **Unchecked:**
+
 ![](./README-images/aeae59fdee93b17f360f.png)
 
 You are not allowed to change the HTML
@@ -123,6 +127,7 @@ By using this HTML:
 </html>
 ```
 Create `3-styles.css` and generate this layout/animation:
+
 ![](./README-images/252a25667dc7c65fe0e9.gif)
 
 You are not allowed to change the HTML
